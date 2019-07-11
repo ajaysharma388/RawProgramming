@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560673817 source:d:\datastructures source code\medianofsortedarrays\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

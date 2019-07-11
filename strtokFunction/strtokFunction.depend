@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560236064 source:d:\datastructures source code\strtokfunction\main.cpp
+	<iostream>
+	<cstring>
+

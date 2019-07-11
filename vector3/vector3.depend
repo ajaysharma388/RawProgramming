@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560321795 source:d:\datastructures source code\vector3\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559791179 source:d:\datastructures source code\chewbacca&number\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

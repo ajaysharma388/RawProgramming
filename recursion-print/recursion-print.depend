@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538472915 source:d:\datastructures source code\recursion-print\main.cpp
+	<iostream>
+	<stdlib.h>
+

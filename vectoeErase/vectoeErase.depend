@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1560247823 source:d:\datastructures source code\vectoeerase\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

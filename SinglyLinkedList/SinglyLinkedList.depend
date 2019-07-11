@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532966736 source:d:\datastructures source code\singlylinkedlist\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+

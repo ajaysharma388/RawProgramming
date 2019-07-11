@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560323682 source:d:\datastructures source code\vector5\main.cpp
+	<iostream>
+	<vector>
+

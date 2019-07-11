@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559177553 source:d:\datastructures source code\checkifprime\main.cpp
+	<iostream>
+	<cmath>
+

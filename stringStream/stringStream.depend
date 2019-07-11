@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556472407 source:d:\datastructures source code\stringstream\main.cpp
+	<sstream>
+	<vector>
+	<iostream>
+

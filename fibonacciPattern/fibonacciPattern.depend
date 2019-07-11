@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558219547 source:d:\datastructures source code\fibonaccipattern\main.cpp
+	<iostream>
+	<iomanip>
+

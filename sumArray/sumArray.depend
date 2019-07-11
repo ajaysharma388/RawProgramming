@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560351309 source:d:\datastructures source code\sumarray\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

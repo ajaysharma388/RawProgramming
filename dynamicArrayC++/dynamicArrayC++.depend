@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558338573 source:d:\datastructures source code\dynamicarrayc++\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

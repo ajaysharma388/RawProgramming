@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560357808 source:d:\datastructures source code\targetsumtriplet\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

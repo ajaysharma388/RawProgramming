@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556471189 source:d:\datastructures source code\pointermanipulation\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

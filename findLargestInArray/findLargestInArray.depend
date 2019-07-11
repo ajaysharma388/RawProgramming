@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560349316 source:d:\datastructures source code\findlargestinarray\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

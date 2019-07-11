@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1556476914 source:d:\datastructures source code\hrmlprocessing\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<map>
+	<sstream>
+

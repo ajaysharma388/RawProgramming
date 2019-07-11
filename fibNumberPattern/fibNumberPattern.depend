@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558919500 source:d:\datastructures source code\fibnumberpattern\main.cpp
+	<iostream>
+	<iomanip>
+

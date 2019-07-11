@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560413332 source:d:\datastructures source code\lentmojunelongchallenge\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
